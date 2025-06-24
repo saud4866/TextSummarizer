@@ -146,7 +146,12 @@ The model uses the **CNN/DailyMail** dataset — a standard benchmark for abstra
 
 
 ## Tools used
-Built with HuggingFace Transformers, NLTK, and Gradio.
+I used the following tools in this project:
+
+-HuggingFace 
+-Transformers
+-Matplot & Seaborn
+-Gradio.
 
 
 
