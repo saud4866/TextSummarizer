@@ -146,12 +146,13 @@ The model uses the **CNN/DailyMail** dataset — a standard benchmark for abstra
 
 
 ## Tools used
+
 I used the following tools in this project:
 
--HuggingFace 
--Transformers
--Matplot & Seaborn
--Gradio.
+- HuggingFace 
+- Transformers
+- Matplot & Seaborn
+- Gradio.
 
 
 
