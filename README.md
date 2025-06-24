@@ -18,7 +18,7 @@ Using a summarizer powered by a pre-trained Transformer like T5-small ensures hi
 
 ## Dataset Overview
 
-The system uses the **CNN/DailyMail** dataset — a standard benchmark for abstractive summarization. It contains real-world news articles paired with human-written summaries.
+The model uses the **CNN/DailyMail** dataset — a standard benchmark for abstractive summarization. It contains real-world news articles paired with human-written summaries.
 
 - **Source**: CNN and Daily Mail news websites
 - **Task**: Generate concise summaries from long-form articles
@@ -26,6 +26,9 @@ The system uses the **CNN/DailyMail** dataset — a standard benchmark for abstr
 - **Dataset Size**: ~300,000 article-summary pairs
 - **Article Length**: Typically 600–800 words
 - **Summary Length**: Typically 50–70 words
+
+
+** Due to 25MB file upload limit I couldn't upload the dataset.  But you can download it from here: https://huggingface.co/datasets/abisee/cnn_dailymail/tree/main/3.0.0
 
 
 ## Exploratary Data Analysis 
