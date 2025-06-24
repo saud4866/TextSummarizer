@@ -14,8 +14,6 @@ Text summarization is important because it helps:
 - 📈 Improve productivity in academic, legal, medical, and business domains
 - 🤖 Enable downstream NLP tasks like indexing, retrieval, and question answering
 
-Using a summarizer powered by a pre-trained Transformer like T5-small ensures high-quality results with efficient fine-tuning on specific datasets.
-
 ## Dataset Overview
 
 The model uses the **CNN/DailyMail** dataset — a standard benchmark for abstractive summarization. It contains real-world news articles paired with human-written summaries.
@@ -28,7 +26,7 @@ The model uses the **CNN/DailyMail** dataset — a standard benchmark for abstra
 - **Summary Length**: Typically 50–70 words
 
 
-** Due to 25MB file upload limit I couldn't upload the dataset.  But you can download it from here: https://huggingface.co/datasets/abisee/cnn_dailymail/tree/main/3.0.0
+* Due to 25MB file upload limit I couldn't upload the dataset.  But you can download it from here:  https://huggingface.co/datasets/abisee/cnn_dailymail/tree/main/3.0.0
 
 
 ## Exploratary Data Analysis 
