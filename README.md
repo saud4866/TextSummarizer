@@ -105,8 +105,8 @@ The model uses the **CNN/DailyMail** dataset — a standard benchmark for abstra
   |------------|-----------|--------|----------|
   | **ROUGE-1**| 0.3965    | 0.4527 | 0.4027   |
   | **ROUGE-2**| 0.1832    | 0.2068 | 0.1848   |
-  | **ROUGE-L**| 0.2654    | 0.3028 | 0.2694   |
-  | **ROUGE-Lsum**| 0.3339 | 0.3775 | 0.3376   |
+  | **ROUGE-3**| 0.2654    | 0.3028 | 0.2694   |
+  | **ROUGE-L**| 0.3339 | 0.3775 | 0.3376   |
 
 * ROUGE ~= 0.3 is considered moderate.  Because of Colab's RAM usage limit, I had to make the maximum length of Summaries = 128 tokens, limiting the model from generating better results.
 
