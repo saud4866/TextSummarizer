@@ -139,7 +139,7 @@ The system uses the **CNN/DailyMail** dataset — a standard benchmark for abstr
 
 ## Deployment
 
-- I deployed the model on Gradio you can use this Script to run and load the model on your System.
+- I used Gradio to deploy the Model.  Unfortunately due to Github file limit **25MB** I couldn't upload the model, but you can train the Model using the Notebook above, then use **Gradio Interface** Notebook to deploy your model.
 
 ![image](https://github.com/user-attachments/assets/699ae365-9ee9-4acc-bc2e-21e559fee78e)
 
