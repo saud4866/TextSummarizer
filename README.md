@@ -159,9 +159,9 @@ I used the following tools in this project:
 
 ## Resources & Refrences
 
-https://medium.com/@info.codetitan/text-summarization-using-a-i-fdddf5b66492
-https://medium.com/analytics-vidhya/t5-a-detailed-explanation-a0ac9bc53e51
-https://medium.com/@gagangupta_82781/understanding-the-t5-model-a-comprehensive-guide-b4d5c02c234b
-https://en.wikipedia.org/wiki/T5_(language_model)
-https://huggingface.co/datasets/abisee/cnn_dailymail
+- https://medium.com/@info.codetitan/text-summarization-using-a-i-fdddf5b66492
+- https://medium.com/analytics-vidhya/t5-a-detailed-explanation-a0ac9bc53e51
+- https://medium.com/@gagangupta_82781/understanding-the-t5-model-a-comprehensive-guide-b4d5c02c234b
+- https://en.wikipedia.org/wiki/T5_(language_model)
+- https://huggingface.co/datasets/abisee/cnn_dailymail
 
